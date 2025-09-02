@@ -1,0 +1,25 @@
+[package]
+name = "exprust"
+version = "0.1.0"
+edition = "2024"
+license = "AGPL-3.0"
+description = "Rust crate for selected ISO 10303-11 EXPRESS schemas (such as AP203 and others), that enables reading, editing, and creating STEP Part 21 files."
+readme = "README.md"
+repository = "https://github.com/vcapp/exprust"
+homepage = "https://exprust.com"
+keywords = [
+    "step",
+    "iso-10303",
+    "part21",
+    "cad",
+    "ap203"
+]
+categories = [
+    "parser-implementations",
+    "encoding",
+    "science",
+    "rendering::data-formats",
+    "data-structures"
+]
+
+[dependencies]
